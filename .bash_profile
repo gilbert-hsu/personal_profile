@@ -113,4 +113,3 @@ unset use_color sh
 
 # alias
 alias vi='vim'
-#export HOME=/net/account/admin/$(id -nu)
